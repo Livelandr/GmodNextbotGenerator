@@ -1,3 +1,3 @@
 # GmodNextbotGenerator
 
-Very easy program to generate your custom nextbots!
+Very easy, one file program to generate your custom nextbots!
